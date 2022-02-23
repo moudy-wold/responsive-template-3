@@ -500,6 +500,7 @@ body {
 
 .pop-img {
     width: 60%;
+    height: 80vh;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -580,6 +581,7 @@ body {
     .pop-img {
         width: 80%;
         margin: auto;
+        
     }
 }
 
@@ -594,7 +596,7 @@ body {
     .pop-img {
         width: 80%;
         margin: auto;
-        height: 80vh;
+        
     }
 }
 
