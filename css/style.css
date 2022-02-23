@@ -537,7 +537,7 @@ body {
 
 .pop-img img {
     width: 100%;
-    height: 20%;
+    height: 90%;
     margin-top: 10px;
 }
 
@@ -550,7 +550,7 @@ body {
         margin: 15px auto;
     }
     .pop-img {
-        width: 70%;
+        width: 80%;
         margin: auto;
     }
 }
@@ -564,7 +564,7 @@ body {
         margin: 15px auto;
     }
     .pop-img {
-        width: 70%;
+        width: 80%;
         margin: auto;
     }
 }
@@ -578,7 +578,7 @@ body {
         margin: 15px auto;
     }
     .pop-img {
-        width: 90%;
+        width: 80%;
         margin: auto;
     }
 }
@@ -592,11 +592,11 @@ body {
         margin: 15px auto;
     }
     .pop-img {
-        width: 70%;
+        width: 80%;
         margin: auto;
+        height: 80vh;
     }
 }
-
 
 /* End Gallery */
 
