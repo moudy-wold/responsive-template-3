@@ -551,9 +551,12 @@ body {
         margin: 15px auto;
     }
     .pop-img {
-        width: 90%;
-        height:30vh;
+        width: 85%;
+        height: 50vh;
         margin: auto;
+    }
+    .pop-img img {
+        height: 80%;
     }
 }
 
