@@ -171,7 +171,11 @@ body {
     margin-right: 20px;
 }
 
-
+@media (max-width:767px){
+    .ulBulletList{
+        display:none
+    }
+}
 /* End Bullets */
 
 
