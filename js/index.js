@@ -58,7 +58,7 @@ function counterFun() {
         background = imgArr[randomImg]
         main.style.backgroundImage = background;
         window.localStorage.setItem("background", JSON.stringify(background))
-    }, 1225)
+    }, 3000)
 }
 counterFun()
 
