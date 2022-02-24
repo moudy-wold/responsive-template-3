@@ -42,7 +42,7 @@ body {
 .setting-box .icon {
     position: absolute;
     top: 160px;
-    right: -10%;
+    right: -8%;
     color: var(--main--color);
     font-size: 20px;
     cursor: pointer;
